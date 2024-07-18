@@ -1,5 +1,5 @@
-# GPUGrants
-GPUGrants - a list of GPU/AI grants that I can think of
+# GPU Grants
+GPU Grants - a list of GPU/AI grants that I can think of
 
 [AI Grant](https://aigrant.org/)
 ```
