@@ -1,12 +1,14 @@
 # GPU Grants
 GPU Grants - a list of GPU/AI grants that I can think of
 
+✨ = I have recieved/great personal experience/platform
+
 [AI Grant](https://aigrant.org/)
 ```
 grants for open source projects
 ```
 
-[Prime Intellect - Fast Compute Grants](https://www.primeintellect.ai/blog/fast-compute-grants#:~:text=If%20you're%20working%20on,hackers%20and%20distributed%20computing%20experts)
+✨ [Prime Intellect - Fast Compute Grants](https://www.primeintellect.ai/blog/fast-compute-grants#:~:text=If%20you're%20working%20on,hackers%20and%20distributed%20computing%20experts)
 ```
 If you're working on something in this vein that could use a boost from free GPUs, we want to hear from you. We'll provide:
 
