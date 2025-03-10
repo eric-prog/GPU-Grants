@@ -37,3 +37,8 @@ Gradient offers compute at a subsidized rate to educational institutions and res
 This program offers up to five $500 grants per quarter to individuals pursuing advances in the field of AI models.
 ```
 
+[Zoltan's FLOPs](https://tcz.hu/zoltans-flops)
+```
+Mini-grant for GPU cloud computing, funding 1-5 projects with a total budget of $5,000.
+```
+
