@@ -78,3 +78,9 @@ The program is open to specialists and professionals in the data science sector 
 ```
 Research Credits Program offers small grants to students conducting research projects outside of formal classes. If you have a research idea that could benefit from a few hundred dollars in support, they invite you to apply through email (earlier by submitting the form). While the program isn’t widely advertised, it provides an opportunity to fund innovative projects. Recipients are kindly asked to acknowledge Together AI in their work.
 ```
+
+[AI Grants India Foundation](https://aigrants.in) 
+```
+Inference access, grants, fellowships, credits for builders. Founded in 2025 already given out billions of tokens every month as well as grants to cover travel, subscriptions, top models in a rate limited fair use model. also a supporter of academic moonshots, havker houses, and early stage founders at inception. 
+```
+
