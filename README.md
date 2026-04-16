@@ -78,3 +78,9 @@ The program is open to specialists and professionals in the data science sector 
 ```
 Research Credits Program offers small grants to students conducting research projects outside of formal classes. If you have a research idea that could benefit from a few hundred dollars in support, they invite you to apply through email (earlier by submitting the form). While the program isn’t widely advertised, it provides an opportunity to fund innovative projects. Recipients are kindly asked to acknowledge Together AI in their work.
 ```
+
+[JarvisLabs - Startup Research Grant](https://tally.so/r/WOpRXP)
+
+```
+$500 in GPU compute credits for ML/AI researchers. No faculty status or .edu email required — open to startup researchers, independent labs, and anyone publishing research. 10 grants awarded monthly. GPUs available: A100, H100, RTX 6000 Ada, and more. Per-minute billing with pause/resume.
+```
